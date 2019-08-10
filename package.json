@@ -1,0 +1,27 @@
+{
+  "name": "proba1",
+  "version": "1.0.0",
+  "description": "Проба 1 за Sass специално",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabidesh/proba1.git"
+  },
+  "keywords": [
+    "проба1",
+    "proba1"
+  ],
+  "author": "dabidesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabidesh/proba1/issues"
+  },
+  "homepage": "https://github.com/dabidesh/proba1#readme"
+}
